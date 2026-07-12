@@ -1,0 +1,9 @@
+build/
+out/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+!third_party/libchd/libchd.dll
